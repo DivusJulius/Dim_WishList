@@ -1,2 +1,5 @@
 //notes: This is a pretty good riptide roll
 dimwishlist:item=2715240478&perks=839105230,1687452232,3300816228,2978966579
+
+//notes: The firefly dragonfly explosive combo
+dimwishlist:item=1937552980&perks=,3824105627,2848615171
