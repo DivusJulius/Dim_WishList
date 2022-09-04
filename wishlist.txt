@@ -1,0 +1,2 @@
+//notes: This is a pretty good riptide roll
+dimwishlist:item=2715240478&perks=839105230,1687452232,3300816228,2978966579
