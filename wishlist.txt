@@ -6,3 +6,6 @@ dimwishlist:item=1937552980&perks=,3824105627,2848615171
 
 //notes: Resovoir Burst is really good on this weapon. Field Prep for more ammo
 dimwishlist:item=3969066556&perks=,2869569095,1427256713
+
+//notes: Out of bound rolls
+dimwishlist:item=2988121501&perks=839105230,1885400500,588594999,1015611457
